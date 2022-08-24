@@ -20,7 +20,7 @@ This section is designed to show you what information you can capture using the 
 ### v1.5 - Advanced Logging ###
 In this last section, we look at how to extend the information we can capture by providing our own custom properties. First we look at a simple variable that gets set once and does not change. After that, we look at how to add a variable once and get it to change as the value in our application changes.
 
-## Resources ##
+## Resource ##
 - The training video itself: [Application Logging in C#: The log4net tutorial](http://youtu.be/2lAdQ_QwNww "Application Logging in C#")
 - The article it supplements: [http://www.codeproject.com/Articles/140911/log-net-Tutorial](http://www.codeproject.com/Articles/140911/log-net-Tutorial "log4net Tutorial")
 - The log4net homepage: [http://logging.apache.org/log4net/](http://logging.apache.org/log4net/ "log4net Homepage")
